@@ -1,5 +1,5 @@
 from time import sleep
-from demo4 import house, make_rode, reset_minecraft_world, set_houses
+from house import house, make_rode, reset_minecraft_world, set_houses
 from mcje.minecraft import Minecraft
 import param_MCJE1122 as param
 import random
