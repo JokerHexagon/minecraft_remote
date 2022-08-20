@@ -5,6 +5,7 @@ import param_MCJE1122 as param
 import random
 
 
+
 mc = Minecraft.create(port=param.PORT_MC)
 #"""
 #  白い家を出す
