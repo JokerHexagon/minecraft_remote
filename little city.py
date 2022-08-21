@@ -9,7 +9,7 @@ mc = Minecraft.create(port=param.PORT_MC)
 #  白い家を出す
 reset_minecraft_world(mc, width=130)
 house(mc,0,0,0,1,4)
-sleep(15)
+sleep(25)
 # 16色の家を並べる
 reset_minecraft_world(mc, width=130)
 sleep(3)
